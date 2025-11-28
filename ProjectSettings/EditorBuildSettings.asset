@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Hub.unity
+    guid: 8912132fdb8df934a90e98943983c9a1
+  - enabled: 1
+    path: Assets/Scenes/Beach.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: 4cb7a49e94154c140aad797181405ffe
+  - enabled: 1
+    path: Assets/Scenes/Garden.unity
+    guid: 60d189c36e5626e45bb097c2a74009cc
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 6f939f7f6d839f942a16471bf1b78c15, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7a42b565cac90854d9d2773e03b2e03f, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: df0afe4dfa012b14e9d3c29bbd464804, type: 2}
+  m_UseUCBPForAssetBundles: 0
